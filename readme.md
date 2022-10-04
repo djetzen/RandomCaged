@@ -7,9 +7,5 @@ Just run `go run main.go <NumberOfIterations>` and it will print out the given n
 
 Example output is
 ```
-play the scale for f# in a pattern
-play the scale for a in d pattern
-play the scale for b in e pattern
-play the scale for d# in c pattern
-play the scale for e in a pattern
+play the scale for a in E caged pattern with .↑.↑↓↑↓↑ strumming pattern
 ```
